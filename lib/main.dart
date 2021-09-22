@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: const MyHomePage(title: 'Day1-Flutter 프로젝트생성'),
+      home: const MyHomePage(title: 'Day1-Flutter_프로젝트생성'),
     );
   }
 }
