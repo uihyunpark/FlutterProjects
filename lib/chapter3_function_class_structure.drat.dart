@@ -61,7 +61,7 @@ void main() {
   //리스트 활용
   List<int> evenFromZero = [0, ...evens];
   List<String> allPlanets = planets + otherPlanets;
-  print('evenFromZero are $evenFromZero');
+  print('evenFromZero are $evenFromZero\n');
   print('All planets are $allPlanets');
 
   //set
