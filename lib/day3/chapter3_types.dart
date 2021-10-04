@@ -1,4 +1,4 @@
-import 'simple_atm_v1.dart';
+import '../day2/simple_atm_v1.dart';
 
 void main() {
   //한줄 주석
